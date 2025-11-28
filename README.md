@@ -51,6 +51,7 @@ plt.show()
 <img width="692" height="513" alt="image" src="https://github.com/user-attachments/assets/b234ed8f-e0d6-4856-889a-dac085e0945b" />
 
 ## Tabular Column
+<img width="1280" height="779" alt="LS20251128161718" src="https://github.com/user-attachments/assets/ec79a5f8-2a51-4c00-a641-492a3be605f4" />
 
 
 ## Result
